@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "40684946734",
+    "project_id": "simplweet",
+    "storage_bucket": "simplweet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40684946734:android:e1dabb2346f3043bdde6bf",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fs_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5287UO2gprRaR3fUn_gsHyOirJvlr1mI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
