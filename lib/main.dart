@@ -1,7 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
-import 'package:flutter_fs_project/features/auth/ui/screens/auth_screen.dart';
 import 'package:flutter_fs_project/features/onboarding/ui/onboarding_screen.dart';
 import 'package:flutter_fs_project/features/tweet/ui/tweets.dart';
 import 'package:flutter_fs_project/firebase_options.dart';
